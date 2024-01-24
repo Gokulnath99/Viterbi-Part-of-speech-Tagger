@@ -34,3 +34,18 @@ Two datasets are used:
 
 - Python (with core libraries)
 - Numpy (external libraries like Pandas and NLTK should not be used)
+
+### Screenshots
+Screenshots demonstrate the four runs of the programs on different training sets and their outputs.
+
+![baseline_small_train](https://github.com/Gokulnath99/Viterbi-Part-of-speech-Tagger/assets/41362808/369e564c-a843-4ddb-9e40-9899ebb2345f)
+*baseline_small_train*
+![baseline_large_train](https://github.com/Gokulnath99/Viterbi-Part-of-speech-Tagger/assets/41362808/2043393a-9e01-4615-bff7-5b5a1e7a433a)
+*baseline_large_train*
+![viterbi_small_train](https://github.com/Gokulnath99/Viterbi-Part-of-speech-Tagger/assets/41362808/bce04972-0c5d-4531-8b76-6dae8e73f724)
+*viterbi_small_train*
+![viterbi_large_train](https://github.com/Gokulnath99/Viterbi-Part-of-speech-Tagger/assets/41362808/8e3eaf36-18d4-4992-8620-ea164a69cb94)
+*viterbi_large_train*
+
+
+
